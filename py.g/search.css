@@ -1,0 +1,35 @@
+#search-container {
+    display: flex;
+    flex-direction: column;
+    background: var(--warm-red);
+    width: 40%;
+    min-height: 700px;
+    padding: 0.8rem;
+    border: 2px solid var(--deep-black);
+    border-radius: 12px;
+    gap: 1rem;
+    margin: 0 57% 0 0;
+}
+
+#search-name{
+    display: flex;
+
+    width: 50%;
+    background: var(--neon-red);
+}
+
+#search1{
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+#search-button{
+    display: flex;
+    justify-content: center;
+    background-color: var(--warm-red);
+    border: none;
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 25%;
+}
