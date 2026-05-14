@@ -1,7 +1,0 @@
-body {
-    background: var(--main-gradient);
-    min-height: 100vh;
-    margin: 0;
-    display: flex;
-    font-family: Arial, sans-serif;
-}
